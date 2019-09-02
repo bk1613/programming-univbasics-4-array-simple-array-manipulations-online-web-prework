@@ -35,11 +35,11 @@ def using_uniq(array)
 end
 
 def using_delete(array, string)
-  return array.
+  return array.delete(string)
 end
 
 def using_delete_at(array, integer)
-  return array.
+  return array.delete(integer)
 end
 
 
