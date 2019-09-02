@@ -6,43 +6,35 @@ def using_unshift(array, string)
   return array..unshift(string)
 end
 
-def using_pop
+def using_pop(array)
 
 end
 
-def pop_with_args
+def pop_with_args(array)
 
 end
 
-def using_shift
+def using_shift(array)
 
 end
 
-def shift_with_args
+def shift_with_args(array)
 
 end
 
-def using_concat
+def using_concat(array)
 
 end
 
-def using_insert
+def using_insert(array)
 
 end
 
-def using_uniq
+def using_uniq(array, )
 
 end
 
-def
-
-end
-
-def
-
-end
-
-def
+def using_delete(array, )
 
 end
 
